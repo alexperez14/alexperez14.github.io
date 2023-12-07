@@ -6,7 +6,7 @@ This is my home page! My name is Alex Perez and I am a student at [Cal State Ful
 
 My GitHub page is https://github.com/alexperez14.
 
-### CPSC 120
+### CPSC 120L
 
 * Lab 6
 
